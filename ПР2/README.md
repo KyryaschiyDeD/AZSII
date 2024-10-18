@@ -4,7 +4,7 @@
 ### (По ошибке была выполнена изначально практика ПРЗ_1 из системы СДО, отчёт по ней был загружен в систему 3го октября, ссылку на таблицу и всё остальное я узнал несколько позже, решил сразу сделать и 1 и 2ую практики)
 ### Прошу зачесть в т.ч. и первую практику
 
-Ссылка на notebook в Google colab: https://colab.research.google.com/drive/1wtKQze9_xyRSiP-410A3BLxXAcC8RZwr?usp=sharing
+Ссылка на notebook в Google colab: https://colab.research.google.com/drive/1e22radGZL0keqmHcyKmXSysdBSjRD5yj?usp=sharing
 
 ## Цель задания:
 

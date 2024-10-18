@@ -5,7 +5,7 @@
 
 Выполнил студент группы ББМО-02-23 Макаров М.М.
 
-Ссылка на notebook в Google colab: https://colab.research.google.com/drive/18FYn7u4Q_5LhGI-Gngq9j472DTgds7rf?usp=sharing
+Ссылка на notebook в Google colab: https://colab.research.google.com/drive/1EDI3vnz9-5XObBhihJn2vhj2wA9tjYSV?usp=sharing
 
 ## Цель задания:
 
